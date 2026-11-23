@@ -1,0 +1,139 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "language": "id",
+  "title": "Contoh struktur 7 beat (format referensi, cerita orisinal-lisas dari struktur publik)",
+  "shots": [
+    {
+      "id": "S01",
+      "start": 0.0,
+      "end": 3.4,
+      "type": "hook",
+      "vo": "Ternyata angket keempat itu dari gue sendiri, dua tahun lalu.",
+      "caption": "Angket keempat itu punya gue.",
+      "sfx": "paper"
+    },
+    {
+      "id": "S02",
+      "start": 3.4,
+      "end": 9.0,
+      "vo": "Di surat itu gue yang nulis alesannya: karena Abah kerja, semua di rumah aman.",
+      "caption": "Satu cita-cita: kayak Abah."
+    },
+    {
+      "id": "S03",
+      "start": 9.0,
+      "end": 15.4,
+      "vo": "Karena Abah kerja, Kak Sari bisa kuliah, Mamah bisa arisan, dan gue nggak pernah nunggak SPP.",
+      "caption": "Karena Abah kerja,\nsemua aman."
+    },
+    {
+      "id": "S04",
+      "start": 15.4,
+      "end": 21.8,
+      "type": "turn",
+      "vo": "Terus Abah di-PHK. Tiga bulan gue nggak tau apa-apa, soalnya di rumah nggak ada yang berubah.",
+      "caption": "Abah di-PHK. Tiga bulan\nnggak ada yang berubah.",
+      "sfx": "door"
+    },
+    {
+      "id": "S05",
+      "start": 21.8,
+      "end": 27.0,
+      "type": "gag",
+      "vo": "Pamitnya tetep lembur, padahal dasinya udah ganti jadi kepala beruang, terus celemek seblak.",
+      "caption": "Dasinya jadi celemek seblak.",
+      "sfx": "whoosh"
+    },
+    {
+      "id": "S06",
+      "start": 27.0,
+      "end": 32.6,
+      "vo": "Kak Sari tetep kuliah, Mamah tetep arisan, dan rumah gue tetep nggak pernah kekurangan.",
+      "caption": "Sari tetep kuliah,\nMamah tetep arisan."
+    },
+    {
+      "id": "S07",
+      "start": 32.6,
+      "end": 39.4,
+      "type": "realization",
+      "vo": "Masalahnya, yang gue tiru dari dulu itu dasinya. Begitu dasinya nggak ada, gue bingung mau jadi apa.",
+      "caption": "Yang gue tiru cuma dasinya."
+    },
+    {
+      "id": "S08",
+      "start": 39.4,
+      "end": 44.6,
+      "vo": "Makanya tiap gue ngebayangin diri gue sendiri, gambarnya kosong, cuma siluet tanpa wajah.",
+      "caption": "Bayangan gue... kosong."
+    },
+    {
+      "id": "S09",
+      "start": 44.6,
+      "end": 50.6,
+      "vo": "Jadi gue isi angketnya dua kata aja: belum tau. Itu jawaban paling jujur minggu ini.",
+      "caption": "Gue nulis: belum tau.",
+      "sfx": "paper"
+    },
+    {
+      "id": "S10",
+      "start": 50.6,
+      "end": 57.8,
+      "vo": "Malam itu gue taruh surat di meja makan, persis di tempat angket Abah semalam, terus pura-pura ambil minum.",
+      "caption": "Surat di meja makan,\npura-pura ambil minum.",
+      "sfx": "chair"
+    },
+    {
+      "id": "S11",
+      "start": 57.8,
+      "end": 63.4,
+      "type": "payoff",
+      "vo": "Abah bacanya lama banget. Terus dia nanya, dasi kantornya masih ada nggak di lemari.",
+      "caption": "Dasi kantornya masih ada?"
+    },
+    {
+      "id": "S12",
+      "start": 63.4,
+      "end": 68.2,
+      "vo": "Gue bilang gue nggak butuh dasi. Gue tetep pengen jadi kayak Abah.",
+      "caption": "\"Gue nggak butuh dasi, Abah.\""
+    },
+    {
+      "id": "S13",
+      "start": 68.2,
+      "end": 73.4,
+      "vo": "Abah buka dompetnya, ambil surat gue, dan selipin di samping angket lama dia.",
+      "caption": "Surat gue, di samping angket Abah.",
+      "sfx": "paper"
+    },
+    {
+      "id": "S14",
+      "start": 73.4,
+      "end": 80.2,
+      "vo": "Dia bilang, nulis belum tau di angket itu udah kayak Abah banget, padahal dia udah lima puluh.",
+      "caption": "\"Itu udah kayak Abah banget.\""
+    },
+    {
+      "id": "S15",
+      "start": 80.2,
+      "end": 86.2,
+      "type": "closing",
+      "vo": "Gambar di kepala gue masih kosong sampai sekarang, tapi Abah ada di sana, noleh bareng.",
+      "caption": "Masih kosong... tapi Abah di sana."
+    },
+    {
+      "id": "S16",
+      "start": 86.2,
+      "end": 89.8,
+      "type": "outro",
+      "vo": "Angket Cita-Cita selesai. Sekarang giliran kamu: apa isi angketmu?",
+      "caption": "Giliran kamu: isi angketmu apa?"
+    }
+  ],
+  "audio": {
+    "voiceover": "vo/",
+    "music": "assets/music.mp3",
+    "music_duck_db": -6
+  }
+}
